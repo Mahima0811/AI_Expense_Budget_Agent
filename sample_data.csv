@@ -1,0 +1,51 @@
+date,category,description,amount,payment_method
+2026-08-01,Rent,Apartment Monthly Rent - August,25000.0,UPI
+2026-08-02,Groceries,Blinkit Household Staples,1450.0,UPI
+2026-08-03,Transport,Metro Card Recharge,500.0,UPI
+2026-08-04,Food,Starbucks Coffee & Snacks,480.0,Credit Card
+2026-08-05,Bills,Electricity Bill - BESCOM,2350.0,UPI
+2026-08-06,Bills,Airtel Broadband & Mobile,1199.0,UPI
+2026-08-07,Food,Swiggy Dinner Order,650.0,UPI
+2026-08-08,Healthcare,Apollo Pharmacy Medicines,850.0,Debit Card
+2026-08-09,Entertainment,BookMyShow Movie Tickets,750.0,Credit Card
+2026-08-10,Groceries,BigBasket Weekly Veggies & Fruits,1850.0,UPI
+2026-08-11,Transport,Uber Ride to Office,380.0,UPI
+2026-08-12,Food,Zomato Lunch Delivery,420.0,UPI
+2026-08-14,Shopping,Zudio Clothing Purchase,2499.0,Credit Card
+2026-08-15,Shopping,Premium Gaming Laptop Purchase,125000.0,Credit Card
+2026-08-16,Food,Weekend Dinner at Barbeque Nation,2200.0,Credit Card
+2026-08-17,Transport,Auto Rickshaw Fare,120.0,Cash
+2026-08-18,Groceries,Zepto Quick Grocery Delivery,680.0,UPI
+2026-08-19,Other,Dry Cleaning Services,450.0,Cash
+2026-08-20,Education,Udemy Online Certification Course,699.0,Credit Card
+2026-08-21,Food,Cafe Coffee Day Meeting,350.0,UPI
+2026-08-22,Shopping,Decathlon Sports Equipment,3200.0,Debit Card
+2026-08-23,Groceries,DMart Monthly Provisions,4850.0,Debit Card
+2026-08-24,Transport,Petrol Pump Refill,2000.0,Credit Card
+2026-08-26,Bills,LPG Gas Cylinder Refill,950.0,UPI
+2026-08-28,Travel,Luxury Beach Resort Weekend Stay,52000.0,Credit Card
+2026-08-29,Food,Seafood Restaurant Dinner,3100.0,Credit Card
+2026-08-30,Transport,Uber Intercity Cab,2800.0,UPI
+2026-09-01,Rent,Apartment Monthly Rent - September,25000.0,UPI
+2026-09-02,Groceries,Blinkit Daily Essentials,1120.0,UPI
+2026-09-03,Bills,Electricity Bill - BESCOM,2180.0,UPI
+2026-09-04,Transport,Metro Card Recharge,500.0,UPI
+2026-09-05,Food,Swiggy Lunch Order,390.0,UPI
+2026-09-06,Bills,Airtel Fiber Broadband,999.0,UPI
+2026-09-07,Healthcare,Routine Doctor Consultation,1000.0,UPI
+2026-09-08,Entertainment,Netflix Monthly Subscription,649.0,Credit Card
+2026-09-09,Food,Taco Bell Weekend Snack,580.0,UPI
+2026-09-10,Groceries,BigBasket Organic Vegetables,1420.0,UPI
+2026-09-11,Transport,Petrol Pump Refill,2200.0,Credit Card
+2026-09-12,Healthcare,Emergency Dental Implant Procedure,48000.0,Debit Card
+2026-09-14,Shopping,Amazon Home Decor & Kitchenware,3450.0,Credit Card
+2026-09-15,Education,Technical Books from Blossom Book House,1250.0,UPI
+2026-09-16,Food,Team Outing Dinner Contribution,1500.0,UPI
+2026-09-18,Groceries,Zepto Household Supplies,890.0,UPI
+2026-09-19,Transport,Uber Ride to Mall,340.0,UPI
+2026-09-20,Shopping,Myntra Festive Wear Shopping,4600.0,Credit Card
+2026-09-22,Other,Car Wash & Detailing,1200.0,Cash
+2026-09-24,Entertainment,Exclusive VIP Concert Pass,35000.0,Credit Card
+2026-09-26,Food,Swiggy Weekend Feast,1280.0,UPI
+2026-09-28,Groceries,DMart Mid-Month Grocery Run,3100.0,Debit Card
+2026-09-30,Bills,Piped Water & Maintenance Bill,1800.0,UPI
